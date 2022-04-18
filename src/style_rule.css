@@ -1,0 +1,13 @@
+#parent{
+    position: relative;
+}
+.B1{
+    position:absolute;
+    top:0px;
+}
+
+.B2{
+    position:absolute;
+    right:350px;
+    top:70px;
+}
